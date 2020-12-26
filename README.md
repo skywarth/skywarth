@@ -1,4 +1,6 @@
-![Skywarth top stats](https://github-readme-stats.vercel.app/api?username=skywarth&theme=chartreuse-dark&count_private=true&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywarth&hide=java&langs_count=6&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Skywarth top stats](https://github-readme-stats.vercel.app/api?username=skywarth&theme=chartreuse-dark&count_private=true&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywarth&hide=java&langs_count=6&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
+![codewar](https://www.codewars.com/users/skywarth/badges/small)
 
 ## My Tech Stack
 
