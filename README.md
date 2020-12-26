@@ -43,6 +43,8 @@
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-purple?style=flat-square&logo=phpstorm)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-1ac8c8?style=flat-square&logo=webstorm)
 
-
+<div style="display:none;">
+  
 ![Visitor Count](https://profile-counter.glitch.me/skywarth/count.svg)
 <img style="display:none" src="https://komarev.com/ghpvc/?username=skywarth&label=Profile%20views&color=0e75b6&style=flat" alt="skywarth" />
+</div>
